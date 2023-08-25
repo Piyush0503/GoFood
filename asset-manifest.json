@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/GoFood/static/css/main.dea05663.css",
+    "main.js": "/github.io/GoFood/static/js/main.975eeedd.js",
+    "static/js/787.7fe0dfbc.chunk.js": "/github.io/GoFood/static/js/787.7fe0dfbc.chunk.js",
+    "index.html": "/github.io/GoFood/index.html",
+    "main.dea05663.css.map": "/github.io/GoFood/static/css/main.dea05663.css.map",
+    "main.975eeedd.js.map": "/github.io/GoFood/static/js/main.975eeedd.js.map",
+    "787.7fe0dfbc.chunk.js.map": "/github.io/GoFood/static/js/787.7fe0dfbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea05663.css",
+    "static/js/main.975eeedd.js"
+  ]
+}
